@@ -1,0 +1,16 @@
+# 🐛 Bug Report – Login Page
+
+| Bug ID | Title | Steps to Reproduce | Expected Result | Actual Result | Severity | Status |
+|---------|--------|--------------------|-----------------|----------------|-----------|---------|
+| BUG001 | Login button unresponsive | 1. Enter valid credentials<br>2. Click Login | Dashboard should open | Nothing happens | High | Open |
+| BUG002 | Error message overlaps UI | 1. Enter wrong password<br>2. Submit | Error message should appear clearly | Message overlaps input field | Medium | Open |
+
+---
+
+## Summary
+- **Total Bugs:** 2  
+- **Open:** 2  
+- **Closed:** 0  
+- **Tester:** Seda Karat  
+- **Date:** Oct 21, 2025
+
